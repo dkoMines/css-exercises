@@ -1,0 +1,18 @@
+.odd {
+    background-color: pink;
+    font-family: Verdana, sans-serif;
+}
+
+.three {
+    font-size: 24px;
+}
+
+#ntwo {
+    color: blue;
+    font-size: 24px;
+}
+#nfour {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
